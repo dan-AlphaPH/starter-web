@@ -8,4 +8,6 @@ This repository is for showing how Git and GitHub work. ANOTHER EIT
 
 ## New Header
 ----
+### Copyright
+2021 Git. Training Dan
 ##### Edited by Dan - 03/03/21
