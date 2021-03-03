@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work. ANOTHER EIT
 
     Sample website with plenty of files for demos. AWEGHWOGBWOUGBAUWE
 
+    Added another line
 ## New Header
 ----
 ### Copyright
